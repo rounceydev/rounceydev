@@ -15,11 +15,11 @@
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 
-### 🛠️ Expertise
+### Expertise
 - **EVM Programs** — Solidity 0.8.x+, Hardhat/Foundry, upgradeable proxies, security patterns, audits
 - **DeFi Protocols** — AMMs, lending/borrowing, yield optimizers, staking
 - **Real-World Assets (RWA)** — Tokenization logic, compliance hooks, oracle integrations, fractional ownership
 - **Memecoin & Launch Tools** — Fair launch mechanics, bonding curves, on-chain trading program
 
-### 🔭 What I'm Focusing on Now
+### What I'm Focusing on Now
 **Smart Contract** for **DeFi**, **RWA**, **Memecoin** projects
