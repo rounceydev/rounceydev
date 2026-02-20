@@ -22,4 +22,4 @@
 - **Memecoin & Launch Tools** — Fair launch mechanics, bonding curves, on-chain trading program
 
 ### 🔭 What I'm Focusing on Now
-**Smart Contract** for **Memecoin**, **DeFi**, **RWA** projects
+**Smart Contract** for **DeFi**, **RWA**, **Memecoin** projects
