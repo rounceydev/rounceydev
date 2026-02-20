@@ -16,7 +16,7 @@
 </a>
 
 ### 🛠️ Expertise
-- **Solana Programs** — Solidity 0.8.x+, Hardhat/Foundry, upgradeable proxies, security patterns, audits
+- **EVM Programs** — Solidity 0.8.x+, Hardhat/Foundry, upgradeable proxies, security patterns, audits
 - **DeFi Primitives** — AMMs, lending/borrowing, yield optimizers, staking
 - **Real-World Assets (RWA)** — Tokenization logic, compliance hooks, oracle integrations, fractional ownership
 - **Memecoin & Launch Tools** — Fair launch mechanics, bonding curves, on-chain trading program
